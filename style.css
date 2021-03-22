@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+}
+
+.wrapper{
+    background-color: rgb(10, 10, 10);
+    background-image: url(bundo-kim-Pb9bUzH1nD8-unsplash.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vmax;
+
+}
+
+
+header {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgba(0,0,0,0.8);
+    height: 100px;
+    
+}
+
+body{
+    width: 100%;
+    background-color: rgba(0,0,0,0.2);
+}
+.menu{
+    background-color: rgba(0,0,0,0.5);;
+    width: 50%;
+    border-radius: 16px;
+    height: 34vmax;
+    margin: 0 auto;
+    margin-top: 4px;
+
+
+}
+
+h1{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 50px;
+    color: rgb(206, 163, 113);
+}
+
+h2{
+    font-family: 'Titillium Web', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:rgb(185, 185, 185);
+}
+
+h3{
+    font-family: 'Titillium Web', sans-serif;
+    color:rgb(185, 185, 185);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 6px;
+}
+
+p {
+    font-family: 'Titillium Web', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: auto;
+    color: rgb(206, 163, 113);
+    font-size: 20px;
+
+} 
+
+footer{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: row;
+        width: 100%;
+    }
+.footer {
+    color: rgb(206, 163, 113);
+}
