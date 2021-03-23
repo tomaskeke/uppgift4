@@ -27,10 +27,6 @@ header {
     
 }
 
-body{
-    width: 100%;
-    background-color: rgba(0,0,0,0.2);
-}
 .menu{
     background-color: rgba(0,0,0,0.5);;
     width: 50%;
